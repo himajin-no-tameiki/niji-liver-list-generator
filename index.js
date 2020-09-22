@@ -3,9 +3,9 @@ const sharp = require('sharp')
 const fsPromises = require('fs').promises
 
 const apiUrl = "https://api.itsukaralink.jp/app/livers.json"
-const imageSuffixNeckup1 = "_Neckup1"
-const imageSuffixNeckup2 = "_Neckup2"
-const imageSuffixBustup = "_bustup"
+const imageSuffixNeckup1 = "_neckup1.png"
+const imageSuffixNeckup2 = "_neckup2.png"
+const imageSuffixBustup = "_bustup.png"
 
 !(async () => {
   const res = await fetch(apiUrl)
@@ -67,7 +67,7 @@ const imageSuffixBustup = "_bustup"
   for (const liver of livers) {
     await sleep(500)
     const avatarUrl = liver.liver.avatar
-    const filename = `${liver.liver.english_name}${imageSuffixBustup}.png`
+    const filename = `${liver.liver.english_name}${imageSuffixBustup}`
     const filepath = `./liver_images/${filename}`
     const imageBuffer = await (await fetch(avatarUrl)).buffer()
     await sharp(imageBuffer).resize(300, 300).toFile(filepath)
