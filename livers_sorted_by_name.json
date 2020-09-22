@@ -2,9 +2,9 @@
     {
         "name": "Manami Aizono",
         "image": [
-            "Manami Aizono_Neckup1",
-            "Manami Aizono_Neckup2",
-            "Manami Aizono_bustup"
+            "Manami Aizono_neckup1.png",
+            "Manami Aizono_neckup2.png",
+            "Manami Aizono_bustup.png"
         ],
         "liver_id": 75,
         "jpname": "愛園愛美",
@@ -18,9 +18,9 @@
     {
         "name": "Uiha Aiba",
         "image": [
-            "Uiha Aiba_Neckup1",
-            "Uiha Aiba_Neckup2",
-            "Uiha Aiba_bustup"
+            "Uiha Aiba_neckup1.png",
+            "Uiha Aiba_neckup2.png",
+            "Uiha Aiba_bustup.png"
         ],
         "liver_id": 88,
         "jpname": "相羽ういは",
@@ -34,9 +34,9 @@
     {
         "name": "Youko Akabane",
         "image": [
-            "Youko Akabane_Neckup1",
-            "Youko Akabane_Neckup2",
-            "Youko Akabane_bustup"
+            "Youko Akabane_neckup1.png",
+            "Youko Akabane_neckup2.png",
+            "Youko Akabane_bustup.png"
         ],
         "liver_id": 4,
         "jpname": "赤羽葉子",
@@ -50,9 +50,9 @@
     {
         "name": "Akane Asahina",
         "image": [
-            "Akane Asahina_Neckup1",
-            "Akane Asahina_Neckup2",
-            "Akane Asahina_bustup"
+            "Akane Asahina_neckup1.png",
+            "Akane Asahina_neckup2.png",
+            "Akane Asahina_bustup.png"
         ],
         "liver_id": 117,
         "jpname": "朝日南アカネ",
@@ -66,9 +66,9 @@
     {
         "name": "Hina Asuka",
         "image": [
-            "Hina Asuka_Neckup1",
-            "Hina Asuka_Neckup2",
-            "Hina Asuka_bustup"
+            "Hina Asuka_neckup1.png",
+            "Hina Asuka_neckup2.png",
+            "Hina Asuka_bustup.png"
         ],
         "liver_id": 55,
         "jpname": "飛鳥ひな",
@@ -82,9 +82,9 @@
     {
         "name": "Momo Azuchi",
         "image": [
-            "Momo Azuchi_Neckup1",
-            "Momo Azuchi_Neckup2",
-            "Momo Azuchi_bustup"
+            "Momo Azuchi_neckup1.png",
+            "Momo Azuchi_neckup2.png",
+            "Momo Azuchi_bustup.png"
         ],
         "liver_id": 28,
         "jpname": "安土桃",
@@ -98,9 +98,9 @@
     {
         "name": "Kokoro Amamiya",
         "image": [
-            "Kokoro Amamiya_Neckup1",
-            "Kokoro Amamiya_Neckup2",
-            "Kokoro Amamiya_bustup"
+            "Kokoro Amamiya_neckup1.png",
+            "Kokoro Amamiya_neckup2.png",
+            "Kokoro Amamiya_bustup.png"
         ],
         "liver_id": 91,
         "jpname": "天宮こころ",
@@ -114,9 +114,9 @@
     {
         "name": "Sayo Amemori",
         "image": [
-            "Sayo Amemori_Neckup1",
-            "Sayo Amemori_Neckup2",
-            "Sayo Amemori_bustup"
+            "Sayo Amemori_neckup1.png",
+            "Sayo Amemori_neckup2.png",
+            "Sayo Amemori_bustup.png"
         ],
         "liver_id": 53,
         "jpname": "雨森小夜",
@@ -130,9 +130,9 @@
     {
         "name": "Ars Almal",
         "image": [
-            "Ars Almal_Neckup1",
-            "Ars Almal_Neckup2",
-            "Ars Almal_bustup"
+            "Ars Almal_neckup1.png",
+            "Ars Almal_neckup2.png",
+            "Ars Almal_bustup.png"
         ],
         "liver_id": 87,
         "jpname": "アルス・アルマル",
@@ -146,9 +146,9 @@
     {
         "name": "Ange Katrina",
         "image": [
-            "Ange Katrina_Neckup1",
-            "Ange Katrina_Neckup2",
-            "Ange Katrina_bustup"
+            "Ange Katrina_neckup1.png",
+            "Ange Katrina_neckup2.png",
+            "Ange Katrina_bustup.png"
         ],
         "liver_id": 70,
         "jpname": "アンジュ・カトリーナ",
@@ -162,9 +162,9 @@
     {
         "name": "Mugi Ienaga",
         "image": [
-            "Mugi Ienaga_Neckup1",
-            "Mugi Ienaga_Neckup2",
-            "Mugi Ienaga_bustup"
+            "Mugi Ienaga_neckup1.png",
+            "Mugi Ienaga_neckup2.png",
+            "Mugi Ienaga_bustup.png"
         ],
         "liver_id": 9,
         "jpname": "家長むぎ",
@@ -178,9 +178,9 @@
     {
         "name": "Kasumi Izumo",
         "image": [
-            "Kasumi Izumo_Neckup1",
-            "Kasumi Izumo_Neckup2",
-            "Kasumi Izumo_bustup"
+            "Kasumi Izumo_neckup1.png",
+            "Kasumi Izumo_neckup2.png",
+            "Kasumi Izumo_bustup.png"
         ],
         "liver_id": 1,
         "jpname": "出雲霞",
@@ -194,9 +194,9 @@
     {
         "name": "Toko Inui",
         "image": [
-            "Toko Inui_Neckup1",
-            "Toko Inui_Neckup2",
-            "Toko Inui_bustup"
+            "Toko Inui_neckup1.png",
+            "Toko Inui_neckup2.png",
+            "Toko Inui_bustup.png"
         ],
         "liver_id": 71,
         "jpname": "戌亥とこ",
@@ -210,9 +210,9 @@
     {
         "name": "Ibrahim",
         "image": [
-            "Ibrahim_Neckup1",
-            "Ibrahim_Neckup2",
-            "Ibrahim_bustup"
+            "Ibrahim_neckup1.png",
+            "Ibrahim_neckup2.png",
+            "Ibrahim_bustup.png"
         ],
         "liver_id": 109,
         "jpname": "イブラヒム",
@@ -226,9 +226,9 @@
     {
         "name": "Ichigo Ushimi",
         "image": [
-            "Ichigo Ushimi_Neckup1",
-            "Ichigo Ushimi_Neckup2",
-            "Ichigo Ushimi_bustup"
+            "Ichigo Ushimi_neckup1.png",
+            "Ichigo Ushimi_neckup2.png",
+            "Ichigo Ushimi_bustup.png"
         ],
         "liver_id": 27,
         "jpname": "宇志海いちご",
@@ -242,9 +242,9 @@
     {
         "name": "Kou Uzuki",
         "image": [
-            "Kou Uzuki_Neckup1",
-            "Kou Uzuki_Neckup2",
-            "Kou Uzuki_bustup"
+            "Kou Uzuki_neckup1.png",
+            "Kou Uzuki_neckup2.png",
+            "Kou Uzuki_bustup.png"
         ],
         "liver_id": 24,
         "jpname": "卯月コウ",
@@ -258,9 +258,9 @@
     {
         "name": "Ex Albio",
         "image": [
-            "Ex Albio_Neckup1",
-            "Ex Albio_Neckup2",
-            "Ex Albio_bustup"
+            "Ex Albio_neckup1.png",
+            "Ex Albio_neckup2.png",
+            "Ex Albio_bustup.png"
         ],
         "liver_id": 79,
         "jpname": "エクス・アルビオ",
@@ -274,9 +274,9 @@
     {
         "name": "Emma August",
         "image": [
-            "Emma August_Neckup1",
-            "Emma August_Neckup2",
-            "Emma August_bustup"
+            "Emma August_neckup1.png",
+            "Emma August_neckup2.png",
+            "Emma August_bustup.png"
         ],
         "liver_id": 99,
         "jpname": "えま★おうがすと",
@@ -290,9 +290,9 @@
     {
         "name": "Eli Conifer",
         "image": [
-            "Eli Conifer_Neckup1",
-            "Eli Conifer_Neckup2",
-            "Eli Conifer_bustup"
+            "Eli Conifer_neckup1.png",
+            "Eli Conifer_neckup2.png",
+            "Eli Conifer_bustup.png"
         ],
         "liver_id": 92,
         "jpname": "エリー・コニファー",
@@ -306,9 +306,9 @@
     {
         "name": "Elu",
         "image": [
-            "Elu_Neckup1",
-            "Elu_Neckup2",
-            "Elu_bustup"
+            "Elu_neckup1.png",
+            "Elu_neckup2.png",
+            "Elu_bustup.png"
         ],
         "liver_id": 14,
         "jpname": "える",
@@ -322,9 +322,9 @@
     {
         "name": "Era Otogibara",
         "image": [
-            "Era Otogibara_Neckup1",
-            "Era Otogibara_Neckup2",
-            "Era Otogibara_bustup"
+            "Era Otogibara_neckup1.png",
+            "Era Otogibara_neckup2.png",
+            "Era Otogibara_bustup.png"
         ],
         "liver_id": 68,
         "jpname": "御伽原江良",
@@ -338,9 +338,9 @@
     {
         "name": "Haruka Onomachi",
         "image": [
-            "Haruka Onomachi_Neckup1",
-            "Haruka Onomachi_Neckup2",
-            "Haruka Onomachi_bustup"
+            "Haruka Onomachi_neckup1.png",
+            "Haruka Onomachi_neckup2.png",
+            "Haruka Onomachi_bustup.png"
         ],
         "liver_id": 64,
         "jpname": "小野町春香",
@@ -354,9 +354,9 @@
     {
         "name": "Haru Kaida",
         "image": [
-            "Haru Kaida_Neckup1",
-            "Haru Kaida_Neckup2",
-            "Haru Kaida_bustup"
+            "Haru Kaida_neckup1.png",
+            "Haru Kaida_neckup2.png",
+            "Haru Kaida_bustup.png"
         ],
         "liver_id": 112,
         "jpname": "甲斐田晴",
@@ -370,9 +370,9 @@
     {
         "name": "Hayato Kagami",
         "image": [
-            "Hayato Kagami_Neckup1",
-            "Hayato Kagami_Neckup2",
-            "Hayato Kagami_bustup"
+            "Hayato Kagami_neckup1.png",
+            "Hayato Kagami_neckup2.png",
+            "Hayato Kagami_bustup.png"
         ],
         "liver_id": 84,
         "jpname": "加賀美ハヤト",
@@ -386,9 +386,9 @@
     {
         "name": "Tsumugu Kataribe",
         "image": [
-            "Tsumugu Kataribe_Neckup1",
-            "Tsumugu Kataribe_Neckup2",
-            "Tsumugu Kataribe_bustup"
+            "Tsumugu Kataribe_neckup1.png",
+            "Tsumugu Kataribe_neckup2.png",
+            "Tsumugu Kataribe_bustup.png"
         ],
         "liver_id": 65,
         "jpname": "語部紡",
@@ -402,9 +402,9 @@
     {
         "name": "Kanae",
         "image": [
-            "Kanae_Neckup1",
-            "Kanae_Neckup2",
-            "Kanae_bustup"
+            "Kanae_neckup1.png",
+            "Kanae_neckup2.png",
+            "Kanae_bustup.png"
         ],
         "liver_id": 7,
         "jpname": "叶",
@@ -418,9 +418,9 @@
     {
         "name": "Shoichi Kanda",
         "image": [
-            "Shoichi Kanda_Neckup1",
-            "Shoichi Kanda_Neckup2",
-            "Shoichi Kanda_bustup"
+            "Shoichi Kanda_neckup1.png",
+            "Shoichi Kanda_neckup2.png",
+            "Shoichi Kanda_bustup.png"
         ],
         "liver_id": 44,
         "jpname": "神田笑一",
@@ -434,9 +434,9 @@
     {
         "name": "Hisui Kitakoji",
         "image": [
-            "Hisui Kitakoji_Neckup1",
-            "Hisui Kitakoji_Neckup2",
-            "Hisui Kitakoji_bustup"
+            "Hisui Kitakoji_neckup1.png",
+            "Hisui Kitakoji_neckup2.png",
+            "Hisui Kitakoji_bustup.png"
         ],
         "liver_id": 120,
         "jpname": "北小路ヒスイ",
@@ -450,9 +450,9 @@
     {
         "name": "Meiro Kingyozaka",
         "image": [
-            "Meiro Kingyozaka_Neckup1",
-            "Meiro Kingyozaka_Neckup2",
-            "Meiro Kingyozaka_bustup"
+            "Meiro Kingyozaka_neckup1.png",
+            "Meiro Kingyozaka_neckup2.png",
+            "Meiro Kingyozaka_bustup.png"
         ],
         "liver_id": 115,
         "jpname": "金魚坂めいろ",
@@ -466,9 +466,9 @@
     {
         "name": "Gilzaren Ⅲ",
         "image": [
-            "Gilzaren Ⅲ_Neckup1",
-            "Gilzaren Ⅲ_Neckup2",
-            "Gilzaren Ⅲ_bustup"
+            "Gilzaren Ⅲ_neckup1.png",
+            "Gilzaren Ⅲ_neckup2.png",
+            "Gilzaren Ⅲ_bustup.png"
         ],
         "liver_id": 6,
         "jpname": "ギルザレンIII世",
@@ -482,9 +482,9 @@
     {
         "name": "Kuzuha",
         "image": [
-            "Kuzuha_Neckup1",
-            "Kuzuha_Neckup2",
-            "Kuzuha_bustup"
+            "Kuzuha_neckup1.png",
+            "Kuzuha_neckup2.png",
+            "Kuzuha_bustup.png"
         ],
         "liver_id": 8,
         "jpname": "葛葉",
@@ -498,9 +498,9 @@
     {
         "name": "Natsume Kurusu",
         "image": [
-            "Natsume Kurusu_Neckup1",
-            "Natsume Kurusu_Neckup2",
-            "Natsume Kurusu_bustup"
+            "Natsume Kurusu_neckup1.png",
+            "Natsume Kurusu_neckup2.png",
+            "Natsume Kurusu_bustup.png"
         ],
         "liver_id": 107,
         "jpname": "来栖夏芽",
@@ -514,9 +514,9 @@
     {
         "name": "Shiba Kuroi",
         "image": [
-            "Shiba Kuroi_Neckup1",
-            "Shiba Kuroi_Neckup2",
-            "Shiba Kuroi_bustup"
+            "Shiba Kuroi_neckup1.png",
+            "Shiba Kuroi_neckup2.png",
+            "Shiba Kuroi_bustup.png"
         ],
         "liver_id": 59,
         "jpname": "黒井しば",
@@ -530,9 +530,9 @@
     {
         "name": "Gwelu Os Gar",
         "image": [
-            "Gwelu Os Gar_Neckup1",
-            "Gwelu Os Gar_Neckup2",
-            "Gwelu Os Gar_bustup"
+            "Gwelu Os Gar_neckup1.png",
+            "Gwelu Os Gar_neckup2.png",
+            "Gwelu Os Gar_bustup.png"
         ],
         "liver_id": 104,
         "jpname": "グウェル・オス・ガール",
@@ -546,9 +546,9 @@
     {
         "name": "Mirei Gundo",
         "image": [
-            "Mirei Gundo_Neckup1",
-            "Mirei Gundo_Neckup2",
-            "Mirei Gundo_bustup"
+            "Mirei Gundo_neckup1.png",
+            "Mirei Gundo_neckup2.png",
+            "Mirei Gundo_bustup.png"
         ],
         "liver_id": 62,
         "jpname": "郡道美玲",
@@ -562,9 +562,9 @@
     {
         "name": "Toya Kenmochi",
         "image": [
-            "Toya Kenmochi_Neckup1",
-            "Toya Kenmochi_Neckup2",
-            "Toya Kenmochi_bustup"
+            "Toya Kenmochi_neckup1.png",
+            "Toya Kenmochi_neckup2.png",
+            "Toya Kenmochi_bustup.png"
         ],
         "liver_id": 23,
         "jpname": "剣持刀也",
@@ -578,9 +578,9 @@
     {
         "name": "Tojiro Genzuki",
         "image": [
-            "Tojiro Genzuki_Neckup1",
-            "Tojiro Genzuki_Neckup2",
-            "Tojiro Genzuki_bustup"
+            "Tojiro Genzuki_neckup1.png",
+            "Tojiro Genzuki_neckup2.png",
+            "Tojiro Genzuki_bustup.png"
         ],
         "liver_id": 111,
         "jpname": "弦月藤士郎",
@@ -594,9 +594,9 @@
     {
         "name": "Akina Saegusa",
         "image": [
-            "Akina Saegusa_Neckup1",
-            "Akina Saegusa_Neckup2",
-            "Akina Saegusa_bustup"
+            "Akina Saegusa_neckup1.png",
+            "Akina Saegusa_neckup2.png",
+            "Akina Saegusa_bustup.png"
         ],
         "liver_id": 74,
         "jpname": "三枝明那",
@@ -610,9 +610,9 @@
     {
         "name": "Ritsuki Sakura",
         "image": [
-            "Ritsuki Sakura_Neckup1",
-            "Ritsuki Sakura_Neckup2",
-            "Ritsuki Sakura_bustup"
+            "Ritsuki Sakura_neckup1.png",
+            "Ritsuki Sakura_neckup2.png",
+            "Ritsuki Sakura_bustup.png"
         ],
         "liver_id": 35,
         "jpname": "桜凛月",
@@ -626,9 +626,9 @@
     {
         "name": "Saku Sasaki",
         "image": [
-            "Saku Sasaki_Neckup1",
-            "Saku Sasaki_Neckup2",
-            "Saku Sasaki_bustup"
+            "Saku Sasaki_neckup1.png",
+            "Saku Sasaki_neckup2.png",
+            "Saku Sasaki_bustup.png"
         ],
         "liver_id": 10,
         "jpname": "笹木咲",
@@ -642,9 +642,9 @@
     {
         "name": "Yuika Shiina",
         "image": [
-            "Yuika Shiina_Neckup1",
-            "Yuika Shiina_Neckup2",
-            "Yuika Shiina_bustup"
+            "Yuika Shiina_neckup1.png",
+            "Yuika Shiina_neckup2.png",
+            "Yuika Shiina_bustup.png"
         ],
         "liver_id": 37,
         "jpname": "椎名唯華",
@@ -658,9 +658,9 @@
     {
         "name": "Shellin Burgundy",
         "image": [
-            "Shellin Burgundy_Neckup1",
-            "Shellin Burgundy_Neckup2",
-            "Shellin Burgundy_bustup"
+            "Shellin Burgundy_neckup1.png",
+            "Shellin Burgundy_neckup2.png",
+            "Shellin Burgundy_bustup.png"
         ],
         "liver_id": 95,
         "jpname": "シェリン・バーガンディ",
@@ -674,9 +674,9 @@
     {
         "name": "Sister Claire",
         "image": [
-            "Sister Claire_Neckup1",
-            "Sister Claire_Neckup2",
-            "Sister Claire_bustup"
+            "Sister Claire_neckup1.png",
+            "Sister Claire_neckup2.png",
+            "Sister Claire_bustup.png"
         ],
         "liver_id": 15,
         "jpname": "シスター・クレア",
@@ -690,9 +690,9 @@
     {
         "name": "Rin Shizuka",
         "image": [
-            "Rin Shizuka_Neckup1",
-            "Rin Shizuka_Neckup2",
-            "Rin Shizuka_bustup"
+            "Rin Shizuka_neckup1.png",
+            "Rin Shizuka_neckup2.png",
+            "Rin Shizuka_bustup.png"
         ],
         "liver_id": 11,
         "jpname": "静凛",
@@ -706,9 +706,9 @@
     {
         "name": "Hajime Shibuya",
         "image": [
-            "Hajime Shibuya_Neckup1",
-            "Hajime Shibuya_Neckup2",
-            "Hajime Shibuya_bustup"
+            "Hajime Shibuya_neckup1.png",
+            "Hajime Shibuya_neckup2.png",
+            "Hajime Shibuya_bustup.png"
         ],
         "liver_id": 40,
         "jpname": "渋谷ハジメ",
@@ -722,9 +722,9 @@
     {
         "name": "Tomoe Shirayuki",
         "image": [
-            "Tomoe Shirayuki_Neckup1",
-            "Tomoe Shirayuki_Neckup2",
-            "Tomoe Shirayuki_bustup"
+            "Tomoe Shirayuki_neckup1.png",
+            "Tomoe Shirayuki_neckup2.png",
+            "Tomoe Shirayuki_bustup.png"
         ],
         "liver_id": 103,
         "jpname": "白雪巴",
@@ -738,9 +738,9 @@
     {
         "name": "Joe Rikiichi",
         "image": [
-            "Joe Rikiichi_Neckup1",
-            "Joe Rikiichi_Neckup2",
-            "Joe Rikiichi_bustup"
+            "Joe Rikiichi_neckup1.png",
+            "Joe Rikiichi_neckup2.png",
+            "Joe Rikiichi_bustup.png"
         ],
         "liver_id": 16,
         "jpname": "ジョー・力一",
@@ -754,9 +754,9 @@
     {
         "name": "Sango Suo",
         "image": [
-            "Sango Suo_Neckup1",
-            "Sango Suo_Neckup2",
-            "Sango Suo_bustup"
+            "Sango Suo_neckup1.png",
+            "Sango Suo_neckup2.png",
+            "Sango Suo_bustup.png"
         ],
         "liver_id": 118,
         "jpname": "周央サンゴ",
@@ -770,9 +770,9 @@
     {
         "name": "Kana Sukoya",
         "image": [
-            "Kana Sukoya_Neckup1",
-            "Kana Sukoya_Neckup2",
-            "Kana Sukoya_bustup"
+            "Kana Sukoya_neckup1.png",
+            "Kana Sukoya_neckup2.png",
+            "Kana Sukoya_bustup.png"
         ],
         "liver_id": 94,
         "jpname": "健屋花那",
@@ -786,9 +786,9 @@
     {
         "name": "Utako Suzuka",
         "image": [
-            "Utako Suzuka_Neckup1",
-            "Utako Suzuka_Neckup2",
-            "Utako Suzuka_bustup"
+            "Utako Suzuka_neckup1.png",
+            "Utako Suzuka_neckup2.png",
+            "Utako Suzuka_bustup.png"
         ],
         "liver_id": 51,
         "jpname": "鈴鹿詩子",
@@ -802,9 +802,9 @@
     {
         "name": "Masaru Suzuki",
         "image": [
-            "Masaru Suzuki_Neckup1",
-            "Masaru Suzuki_Neckup2",
-            "Masaru Suzuki_bustup"
+            "Masaru Suzuki_neckup1.png",
+            "Masaru Suzuki_neckup2.png",
+            "Masaru Suzuki_bustup.png"
         ],
         "liver_id": 5,
         "jpname": "鈴木勝",
@@ -818,9 +818,9 @@
     {
         "name": "Lulu Suzuhara",
         "image": [
-            "Lulu Suzuhara_Neckup1",
-            "Lulu Suzuhara_Neckup2",
-            "Lulu Suzuhara_bustup"
+            "Lulu Suzuhara_neckup1.png",
+            "Lulu Suzuhara_neckup2.png",
+            "Lulu Suzuhara_bustup.png"
         ],
         "liver_id": 73,
         "jpname": "鈴原るる",
@@ -834,9 +834,9 @@
     {
         "name": "Aki Suzuya",
         "image": [
-            "Aki Suzuya_Neckup1",
-            "Aki Suzuya_Neckup2",
-            "Aki Suzuya_bustup"
+            "Aki Suzuya_neckup1.png",
+            "Aki Suzuya_neckup2.png",
+            "Aki Suzuya_bustup.png"
         ],
         "liver_id": 13,
         "jpname": "鈴谷アキ",
@@ -850,9 +850,9 @@
     {
         "name": "Miyako Seto",
         "image": [
-            "Miyako Seto_Neckup1",
-            "Miyako Seto_Neckup2",
-            "Miyako Seto_bustup"
+            "Miyako Seto_neckup1.png",
+            "Miyako Seto_neckup2.png",
+            "Miyako Seto_bustup.png"
         ],
         "liver_id": 66,
         "jpname": "瀬戸美夜子",
@@ -866,9 +866,9 @@
     {
         "name": "Kirame Sorahoshi",
         "image": [
-            "Kirame Sorahoshi_Neckup1",
-            "Kirame Sorahoshi_Neckup2",
-            "Kirame Sorahoshi_bustup"
+            "Kirame Sorahoshi_neckup1.png",
+            "Kirame Sorahoshi_neckup2.png",
+            "Kirame Sorahoshi_bustup.png"
         ],
         "liver_id": 114,
         "jpname": "空星きらめ",
@@ -882,9 +882,9 @@
     {
         "name": "Rion Takamiya",
         "image": [
-            "Rion Takamiya_Neckup1",
-            "Rion Takamiya_Neckup2",
-            "Rion Takamiya_bustup"
+            "Rion Takamiya_neckup1.png",
+            "Rion Takamiya_neckup2.png",
+            "Rion Takamiya_bustup.png"
         ],
         "liver_id": 58,
         "jpname": "鷹宮リオン",
@@ -898,9 +898,9 @@
     {
         "name": "Mito Tsukino",
         "image": [
-            "Mito Tsukino_Neckup1",
-            "Mito Tsukino_Neckup2",
-            "Mito Tsukino_bustup"
+            "Mito Tsukino_neckup1.png",
+            "Mito Tsukino_neckup2.png",
+            "Mito Tsukino_bustup.png"
         ],
         "liver_id": 32,
         "jpname": "月ノ美兎",
@@ -914,9 +914,9 @@
     {
         "name": "Debidebi Debiru",
         "image": [
-            "Debidebi Debiru_Neckup1",
-            "Debidebi Debiru_Neckup2",
-            "Debidebi Debiru_bustup"
+            "Debidebi Debiru_neckup1.png",
+            "Debidebi Debiru_neckup2.png",
+            "Debidebi Debiru_bustup.png"
         ],
         "liver_id": 18,
         "jpname": "でびでび・でびる",
@@ -930,9 +930,9 @@
     {
         "name": "Kohaku Todo",
         "image": [
-            "Kohaku Todo_Neckup1",
-            "Kohaku Todo_Neckup2",
-            "Kohaku Todo_bustup"
+            "Kohaku Todo_neckup1.png",
+            "Kohaku Todo_neckup2.png",
+            "Kohaku Todo_bustup.png"
         ],
         "liver_id": 119,
         "jpname": "東堂コハク",
@@ -946,9 +946,9 @@
     {
         "name": "Kyoko Todoroki",
         "image": [
-            "Kyoko Todoroki_Neckup1",
-            "Kyoko Todoroki_Neckup2",
-            "Kyoko Todoroki_bustup"
+            "Kyoko Todoroki_neckup1.png",
+            "Kyoko Todoroki_neckup2.png",
+            "Kyoko Todoroki_bustup.png"
         ],
         "liver_id": 49,
         "jpname": "轟京子",
@@ -962,9 +962,9 @@
     {
         "name": "Dola",
         "image": [
-            "Dola_Neckup1",
-            "Dola_Neckup2",
-            "Dola_bustup"
+            "Dola_neckup1.png",
+            "Dola_neckup2.png",
+            "Dola_bustup.png"
         ],
         "liver_id": 19,
         "jpname": "ドーラ",
@@ -978,9 +978,9 @@
     {
         "name": "Kei Nagao",
         "image": [
-            "Kei Nagao_Neckup1",
-            "Kei Nagao_Neckup2",
-            "Kei Nagao_bustup"
+            "Kei Nagao_neckup1.png",
+            "Kei Nagao_neckup2.png",
+            "Kei Nagao_bustup.png"
         ],
         "liver_id": 113,
         "jpname": "長尾景",
@@ -994,9 +994,9 @@
     {
         "name": "Naraka",
         "image": [
-            "Naraka_Neckup1",
-            "Naraka_Neckup2",
-            "Naraka_bustup"
+            "Naraka_neckup1.png",
+            "Naraka_neckup2.png",
+            "Naraka_bustup.png"
         ],
         "liver_id": 106,
         "jpname": "奈羅花",
@@ -1010,9 +1010,9 @@
     {
         "name": "Naru Naruse",
         "image": [
-            "Naru Naruse_Neckup1",
-            "Naru Naruse_Neckup2",
-            "Naru Naruse_bustup"
+            "Naru Naruse_neckup1.png",
+            "Naru Naruse_neckup2.png",
+            "Naru Naruse_bustup.png"
         ],
         "liver_id": 29,
         "jpname": "成瀬鳴",
@@ -1026,9 +1026,9 @@
     {
         "name": "Chigusa Nishizono",
         "image": [
-            "Chigusa Nishizono_Neckup1",
-            "Chigusa Nishizono_Neckup2",
-            "Chigusa Nishizono_bustup"
+            "Chigusa Nishizono_neckup1.png",
+            "Chigusa Nishizono_neckup2.png",
+            "Chigusa Nishizono_bustup.png"
         ],
         "liver_id": 116,
         "jpname": "西園チグサ",
@@ -1042,9 +1042,9 @@
     {
         "name": "Nui Sociere",
         "image": [
-            "Nui Sociere_Neckup1",
-            "Nui Sociere_Neckup2",
-            "Nui Sociere_bustup"
+            "Nui Sociere_neckup1.png",
+            "Nui Sociere_neckup2.png",
+            "Nui Sociere_bustup.png"
         ],
         "liver_id": 83,
         "jpname": "ニュイ・ソシエール",
@@ -1058,9 +1058,9 @@
     {
         "name": "Fuyuki Hakase",
         "image": [
-            "Fuyuki Hakase_Neckup1",
-            "Fuyuki Hakase_Neckup2",
-            "Fuyuki Hakase_bustup"
+            "Fuyuki Hakase_neckup1.png",
+            "Fuyuki Hakase_neckup2.png",
+            "Fuyuki Hakase_bustup.png"
         ],
         "liver_id": 85,
         "jpname": "葉加瀬冬雪",
@@ -1074,9 +1074,9 @@
     {
         "name": "Chaika Hanabatake",
         "image": [
-            "Chaika Hanabatake_Neckup1",
-            "Chaika Hanabatake_Neckup2",
-            "Chaika Hanabatake_bustup"
+            "Chaika Hanabatake_neckup1.png",
+            "Chaika Hanabatake_neckup2.png",
+            "Chaika Hanabatake_bustup.png"
         ],
         "liver_id": 48,
         "jpname": "花畑チャイカ",
@@ -1090,9 +1090,9 @@
     {
         "name": "Sou Hayase",
         "image": [
-            "Sou Hayase_Neckup1",
-            "Sou Hayase_Neckup2",
-            "Sou Hayase_bustup"
+            "Sou Hayase_neckup1.png",
+            "Sou Hayase_neckup2.png",
+            "Sou Hayase_bustup.png"
         ],
         "liver_id": 93,
         "jpname": "早瀬走",
@@ -1106,9 +1106,9 @@
     {
         "name": "Marin Hayama",
         "image": [
-            "Marin Hayama_Neckup1",
-            "Marin Hayama_Neckup2",
-            "Marin Hayama_bustup"
+            "Marin Hayama_neckup1.png",
+            "Marin Hayama_neckup2.png",
+            "Marin Hayama_bustup.png"
         ],
         "liver_id": 82,
         "jpname": "葉山舞鈴",
@@ -1122,9 +1122,9 @@
     {
         "name": "Air Harusaki",
         "image": [
-            "Air Harusaki_Neckup1",
-            "Air Harusaki_Neckup2",
-            "Air Harusaki_bustup"
+            "Air Harusaki_neckup1.png",
+            "Air Harusaki_neckup2.png",
+            "Air Harusaki_bustup.png"
         ],
         "liver_id": 31,
         "jpname": "春崎エアル",
@@ -1138,9 +1138,9 @@
     {
         "name": "Kaede Higuchi",
         "image": [
-            "Kaede Higuchi_Neckup1",
-            "Kaede Higuchi_Neckup2",
-            "Kaede Higuchi_bustup"
+            "Kaede Higuchi_neckup1.png",
+            "Kaede Higuchi_neckup2.png",
+            "Kaede Higuchi_bustup.png"
         ],
         "liver_id": 38,
         "jpname": "樋口楓",
@@ -1154,9 +1154,9 @@
     {
         "name": "Gaku Fushimi",
         "image": [
-            "Gaku Fushimi_Neckup1",
-            "Gaku Fushimi_Neckup2",
-            "Gaku Fushimi_bustup"
+            "Gaku Fushimi_neckup1.png",
+            "Gaku Fushimi_neckup2.png",
+            "Gaku Fushimi_bustup.png"
         ],
         "liver_id": 21,
         "jpname": "伏見ガク",
@@ -1170,9 +1170,9 @@
     {
         "name": "Fumi",
         "image": [
-            "Fumi_Neckup1",
-            "Fumi_Neckup2",
-            "Fumi_bustup"
+            "Fumi_neckup1.png",
+            "Fumi_neckup2.png",
+            "Fumi_bustup.png"
         ],
         "liver_id": 96,
         "jpname": "フミ",
@@ -1186,9 +1186,9 @@
     {
         "name": "Tamaki Fumino",
         "image": [
-            "Tamaki Fumino_Neckup1",
-            "Tamaki Fumino_Neckup2",
-            "Tamaki Fumino_bustup"
+            "Tamaki Fumino_neckup1.png",
+            "Tamaki Fumino_neckup2.png",
+            "Tamaki Fumino_bustup.png"
         ],
         "liver_id": 30,
         "jpname": "文野環",
@@ -1202,9 +1202,9 @@
     {
         "name": "Furen E Lustario",
         "image": [
-            "Furen E Lustario_Neckup1",
-            "Furen E Lustario_Neckup2",
-            "Furen E Lustario_bustup"
+            "Furen E Lustario_neckup1.png",
+            "Furen E Lustario_neckup2.png",
+            "Furen E Lustario_bustup.png"
         ],
         "liver_id": 108,
         "jpname": "フレン・E・ルスタリオ",
@@ -1218,9 +1218,9 @@
     {
         "name": "Minato Fuwa",
         "image": [
-            "Minato Fuwa_Neckup1",
-            "Minato Fuwa_Neckup2",
-            "Minato Fuwa_bustup"
+            "Minato Fuwa_neckup1.png",
+            "Minato Fuwa_neckup2.png",
+            "Minato Fuwa_bustup.png"
         ],
         "liver_id": 102,
         "jpname": "不破湊",
@@ -1234,9 +1234,9 @@
     {
         "name": "Belmond Banderas",
         "image": [
-            "Belmond Banderas_Neckup1",
-            "Belmond Banderas_Neckup2",
-            "Belmond Banderas_bustup"
+            "Belmond Banderas_neckup1.png",
+            "Belmond Banderas_neckup2.png",
+            "Belmond Banderas_bustup.png"
         ],
         "liver_id": 20,
         "jpname": "ベルモンド・バンデラス",
@@ -1250,9 +1250,9 @@
     {
         "name": "Sara Hoshikawa",
         "image": [
-            "Sara Hoshikawa_Neckup1",
-            "Sara Hoshikawa_Neckup2",
-            "Sara Hoshikawa_bustup"
+            "Sara Hoshikawa_neckup1.png",
+            "Sara Hoshikawa_neckup2.png",
+            "Sara Hoshikawa_bustup.png"
         ],
         "liver_id": 97,
         "jpname": "星川サラ",
@@ -1266,9 +1266,9 @@
     {
         "name": "Himawari Honma",
         "image": [
-            "Himawari Honma_Neckup1",
-            "Himawari Honma_Neckup2",
-            "Himawari Honma_bustup"
+            "Himawari Honma_neckup1.png",
+            "Himawari Honma_neckup2.png",
+            "Himawari Honma_bustup.png"
         ],
         "liver_id": 34,
         "jpname": "本間ひまわり",
@@ -1282,9 +1282,9 @@
     {
         "name": "Keisuke Maimoto",
         "image": [
-            "Keisuke Maimoto_Neckup1",
-            "Keisuke Maimoto_Neckup2",
-            "Keisuke Maimoto_bustup"
+            "Keisuke Maimoto_neckup1.png",
+            "Keisuke Maimoto_neckup2.png",
+            "Keisuke Maimoto_bustup.png"
         ],
         "liver_id": 47,
         "jpname": "舞元啓介",
@@ -1298,9 +1298,9 @@
     {
         "name": "Makaino Ririmu",
         "image": [
-            "Makaino Ririmu_Neckup1",
-            "Makaino Ririmu_Neckup2",
-            "Makaino Ririmu_bustup"
+            "Makaino Ririmu_neckup1.png",
+            "Makaino Ririmu_neckup2.png",
+            "Makaino Ririmu_bustup.png"
         ],
         "liver_id": 56,
         "jpname": "魔界ノりりむ",
@@ -1314,9 +1314,9 @@
     {
         "name": "Mashiro",
         "image": [
-            "Mashiro_Neckup1",
-            "Mashiro_Neckup2",
-            "Mashiro_bustup"
+            "Mashiro_neckup1.png",
+            "Mashiro_neckup2.png",
+            "Mashiro_bustup.png"
         ],
         "liver_id": 105,
         "jpname": "ましろ",
@@ -1330,9 +1330,9 @@
     {
         "name": "Chima Machita",
         "image": [
-            "Chima Machita_Neckup1",
-            "Chima Machita_Neckup2",
-            "Chima Machita_bustup"
+            "Chima Machita_neckup1.png",
+            "Chima Machita_neckup2.png",
+            "Chima Machita_bustup.png"
         ],
         "liver_id": 41,
         "jpname": "町田ちま",
@@ -1346,9 +1346,9 @@
     {
         "name": "Mao Matsukai",
         "image": [
-            "Mao Matsukai_Neckup1",
-            "Mao Matsukai_Neckup2",
-            "Mao Matsukai_bustup"
+            "Mao Matsukai_neckup1.png",
+            "Mao Matsukai_neckup2.png",
+            "Mao Matsukai_bustup.png"
         ],
         "liver_id": 101,
         "jpname": "魔使マオ",
@@ -1362,9 +1362,9 @@
     {
         "name": "Kai Mayuzumi",
         "image": [
-            "Kai Mayuzumi_Neckup1",
-            "Kai Mayuzumi_Neckup2",
-            "Kai Mayuzumi_bustup"
+            "Kai Mayuzumi_neckup1.png",
+            "Kai Mayuzumi_neckup2.png",
+            "Kai Mayuzumi_bustup.png"
         ],
         "liver_id": 89,
         "jpname": "黛灰",
@@ -1378,9 +1378,9 @@
     {
         "name": "Melissa Kinrenka",
         "image": [
-            "Melissa Kinrenka_Neckup1",
-            "Melissa Kinrenka_Neckup2",
-            "Melissa Kinrenka_bustup"
+            "Melissa Kinrenka_neckup1.png",
+            "Melissa Kinrenka_neckup2.png",
+            "Melissa Kinrenka_bustup.png"
         ],
         "liver_id": 110,
         "jpname": "メリッサ・キンレンカ",
@@ -1394,9 +1394,9 @@
     {
         "name": "Moira",
         "image": [
-            "Moira_Neckup1",
-            "Moira_Neckup2",
-            "Moira_bustup"
+            "Moira_neckup1.png",
+            "Moira_neckup2.png",
+            "Moira_bustup.png"
         ],
         "liver_id": 2,
         "jpname": "モイラ",
@@ -1410,9 +1410,9 @@
     {
         "name": "Alice Mononobe",
         "image": [
-            "Alice Mononobe_Neckup1",
-            "Alice Mononobe_Neckup2",
-            "Alice Mononobe_bustup"
+            "Alice Mononobe_neckup1.png",
+            "Alice Mononobe_neckup2.png",
+            "Alice Mononobe_bustup.png"
         ],
         "liver_id": 3,
         "jpname": "物述有栖",
@@ -1426,9 +1426,9 @@
     {
         "name": "Kazaki Morinaka",
         "image": [
-            "Kazaki Morinaka_Neckup1",
-            "Kazaki Morinaka_Neckup2",
-            "Kazaki Morinaka_bustup"
+            "Kazaki Morinaka_neckup1.png",
+            "Kazaki Morinaka_neckup2.png",
+            "Kazaki Morinaka_bustup.png"
         ],
         "liver_id": 36,
         "jpname": "森中花咲",
@@ -1442,9 +1442,9 @@
     {
         "name": "Rine Yaguruma",
         "image": [
-            "Rine Yaguruma_Neckup1",
-            "Rine Yaguruma_Neckup2",
-            "Rine Yaguruma_bustup"
+            "Rine Yaguruma_neckup1.png",
+            "Rine Yaguruma_neckup2.png",
+            "Rine Yaguruma_bustup.png"
         ],
         "liver_id": 42,
         "jpname": "矢車りね",
@@ -1458,9 +1458,9 @@
     {
         "name": "Kizuku Yashiro",
         "image": [
-            "Kizuku Yashiro_Neckup1",
-            "Kizuku Yashiro_Neckup2",
-            "Kizuku Yashiro_bustup"
+            "Kizuku Yashiro_neckup1.png",
+            "Kizuku Yashiro_neckup2.png",
+            "Kizuku Yashiro_bustup.png"
         ],
         "liver_id": 43,
         "jpname": "社築",
@@ -1474,9 +1474,9 @@
     {
         "name": "Karuta Yamagami",
         "image": [
-            "Karuta Yamagami_Neckup1",
-            "Karuta Yamagami_Neckup2",
-            "Karuta Yamagami_bustup"
+            "Karuta Yamagami_neckup1.png",
+            "Karuta Yamagami_neckup2.png",
+            "Karuta Yamagami_bustup.png"
         ],
         "liver_id": 98,
         "jpname": "山神カルタ",
@@ -1490,9 +1490,9 @@
     {
         "name": "Chihiro Yuki",
         "image": [
-            "Chihiro Yuki_Neckup1",
-            "Chihiro Yuki_Neckup2",
-            "Chihiro Yuki_bustup"
+            "Chihiro Yuki_neckup1.png",
+            "Chihiro Yuki_neckup2.png",
+            "Chihiro Yuki_bustup.png"
         ],
         "liver_id": 17,
         "jpname": "勇気ちひろ",
@@ -1506,9 +1506,9 @@
     {
         "name": "Riri Yuhi",
         "image": [
-            "Riri Yuhi_Neckup1",
-            "Riri Yuhi_Neckup2",
-            "Riri Yuhi_bustup"
+            "Riri Yuhi_neckup1.png",
+            "Riri Yuhi_neckup2.png",
+            "Riri Yuhi_bustup.png"
         ],
         "liver_id": 12,
         "jpname": "夕陽リリ",
@@ -1522,9 +1522,9 @@
     {
         "name": "Mahiro Yukishiro",
         "image": [
-            "Mahiro Yukishiro_Neckup1",
-            "Mahiro Yukishiro_Neckup2",
-            "Mahiro Yukishiro_bustup"
+            "Mahiro Yukishiro_neckup1.png",
+            "Mahiro Yukishiro_neckup2.png",
+            "Mahiro Yukishiro_bustup.png"
         ],
         "liver_id": 76,
         "jpname": "雪城眞尋",
@@ -1538,9 +1538,9 @@
     {
         "name": "Roa Yuzuki",
         "image": [
-            "Roa Yuzuki_Neckup1",
-            "Roa Yuzuki_Neckup2",
-            "Roa Yuzuki_bustup"
+            "Roa Yuzuki_neckup1.png",
+            "Roa Yuzuki_neckup2.png",
+            "Roa Yuzuki_bustup.png"
         ],
         "liver_id": 63,
         "jpname": "夢月ロア",
@@ -1554,9 +1554,9 @@
     {
         "name": "Kakeru Yumeoi",
         "image": [
-            "Kakeru Yumeoi_Neckup1",
-            "Kakeru Yumeoi_Neckup2",
-            "Kakeru Yumeoi_bustup"
+            "Kakeru Yumeoi_neckup1.png",
+            "Kakeru Yumeoi_neckup2.png",
+            "Kakeru Yumeoi_bustup.png"
         ],
         "liver_id": 26,
         "jpname": "夢追翔",
@@ -1570,9 +1570,9 @@
     {
         "name": "Rena Yorumi",
         "image": [
-            "Rena Yorumi_Neckup1",
-            "Rena Yorumi_Neckup2",
-            "Rena Yorumi_bustup"
+            "Rena Yorumi_neckup1.png",
+            "Rena Yorumi_neckup2.png",
+            "Rena Yorumi_bustup.png"
         ],
         "liver_id": 86,
         "jpname": "夜見れな",
@@ -1586,9 +1586,9 @@
     {
         "name": "Ratna Petit",
         "image": [
-            "Ratna Petit_Neckup1",
-            "Ratna Petit_Neckup2",
-            "Ratna Petit_bustup"
+            "Ratna Petit_neckup1.png",
+            "Ratna Petit_neckup2.png",
+            "Ratna Petit_bustup.png"
         ],
         "liver_id": 90,
         "jpname": "ラトナ・プティ",
@@ -1602,9 +1602,9 @@
     {
         "name": "Lize Helesta",
         "image": [
-            "Lize Helesta_Neckup1",
-            "Lize Helesta_Neckup2",
-            "Lize Helesta_bustup"
+            "Lize Helesta_neckup1.png",
+            "Lize Helesta_neckup2.png",
+            "Lize Helesta_bustup.png"
         ],
         "liver_id": 72,
         "jpname": "リゼ・ヘルエスタ",
@@ -1618,9 +1618,9 @@
     {
         "name": "Ryushen",
         "image": [
-            "Ryushen_Neckup1",
-            "Ryushen_Neckup2",
-            "Ryushen_bustup"
+            "Ryushen_neckup1.png",
+            "Ryushen_neckup2.png",
+            "Ryushen_bustup.png"
         ],
         "liver_id": 46,
         "jpname": "緑仙",
@@ -1634,9 +1634,9 @@
     {
         "name": "Mikoto Rindou",
         "image": [
-            "Mikoto Rindou_Neckup1",
-            "Mikoto Rindou_Neckup2",
-            "Mikoto Rindou_bustup"
+            "Mikoto Rindou_neckup1.png",
+            "Mikoto Rindou_neckup2.png",
+            "Mikoto Rindou_bustup.png"
         ],
         "liver_id": 45,
         "jpname": "竜胆尊",
@@ -1650,9 +1650,9 @@
     {
         "name": "Luis Cammy",
         "image": [
-            "Luis Cammy_Neckup1",
-            "Luis Cammy_Neckup2",
-            "Luis Cammy_bustup"
+            "Luis Cammy_neckup1.png",
+            "Luis Cammy_neckup2.png",
+            "Luis Cammy_bustup.png"
         ],
         "liver_id": 100,
         "jpname": "ルイス・キャミー",
@@ -1666,9 +1666,9 @@
     {
         "name": "Levi Elipha",
         "image": [
-            "Levi Elipha_Neckup1",
-            "Levi Elipha_Neckup2",
-            "Levi Elipha_bustup"
+            "Levi Elipha_neckup1.png",
+            "Levi Elipha_neckup2.png",
+            "Levi Elipha_bustup.png"
         ],
         "liver_id": 78,
         "jpname": "レヴィ・エリファ",
@@ -1682,9 +1682,9 @@
     {
         "name": "Meiji Warabeda",
         "image": [
-            "Meiji Warabeda_Neckup1",
-            "Meiji Warabeda_Neckup2",
-            "Meiji Warabeda_bustup"
+            "Meiji Warabeda_neckup1.png",
+            "Meiji Warabeda_neckup2.png",
+            "Meiji Warabeda_bustup.png"
         ],
         "liver_id": 60,
         "jpname": "童田明治",
@@ -1698,9 +1698,9 @@
     {
         "name": "Nijisanji",
         "image": [
-            "Nijisanji_Neckup1",
-            "Nijisanji_Neckup2",
-            "Nijisanji_bustup"
+            "Nijisanji_neckup1.png",
+            "Nijisanji_neckup2.png",
+            "Nijisanji_bustup.png"
         ],
         "liver_id": 67,
         "jpname": "にじさんじ公式チャンネル",

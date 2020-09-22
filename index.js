@@ -58,10 +58,21 @@ const imageSuffixBustup = "_bustup.png"
     }
   })
 
-  const outFileHandle = await fsPromises.open('livers.json', 'w')
-  const jsonString = JSON.stringify(result, null, 4)  // 4 space indentation
-  await outFileHandle.writeFile(jsonString)
-  await outFileHandle.close()
+  {
+    const outFileHandle = await fsPromises.open('livers_sorted_by_name.json', 'w')
+    const jsonString = JSON.stringify(result, null, 4)  // 4 space indentation
+    await outFileHandle.writeFile(jsonString)
+    await outFileHandle.close()
+  }
+
+  {
+    const outFileHandle = await fsPromises.open('livers_sorted_by_debut_date.json', 'w')
+    const jsonString = JSON.stringify(result.slice().sort((a, b) => a.liver_id - b.liver_id), null, 4)  // 4 space indentation
+    await outFileHandle.writeFile(jsonString)
+    await outFileHandle.close()
+  }
+
+  return
 
   // generate 300x300 png images
   for (const liver of livers) {
